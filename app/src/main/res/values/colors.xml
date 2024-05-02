@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellowAmazon">#e5c161</color>
+    <color name="greyAmazon">#646461</color>
+    <color name="blackAmazon">#3e3e3e</color>
+    <color name="blueLightAmazon">#1695CD</color>
+    <color name="whiteAmazon">#f3f3f1</color>
+</resources>

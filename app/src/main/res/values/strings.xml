@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">loginAmazon</string>
+    <string name="title">"Sing-In"</string>
+    <string name="titleEmail">"E-mail(phone for mobile accounts)"</string>
+    <string name="email">"E-mail"</string>
+    <string name="password">"Password"</string>
+    <string name="forgetPassword">"Forgot Password"</string>
+    <string name="informationAcceptConditions">"By signing-in you agree to Amazon´s Conditions of Use and sale. Please see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice."</string>
+    <string name="textBtnConditionsUse">"Conditions of Use and sale"</string>
+    <string name="textBtnPrivacy">"Privacy Notice"</string>
+    <string name="textBtnCookies">"Cookies Notice"</string>
+    <string name="textBtnAds">"Interest-Based Ads Notice"</string>
+    <string name="checkKeepMeSinged">"Keep me signed in. Details"</string>
+    <string name="areYouNewToAmazon">"New to Amazon?"</string>
+    <string name="btnCreateAccount">"Create your Amazon account"</string>
+</resources>
